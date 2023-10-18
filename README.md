@@ -1,6 +1,6 @@
-# dreamer_flutter_boilerplate
+# dreamer_flutter_demo
 
-This is a boilerplate to create a simple flutter app with db connections on platform device.
+This is a demo of a simple flutter app with db connections on platform device.
 
 ## App Demo
 
